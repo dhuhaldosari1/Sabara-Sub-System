@@ -1,4 +1,4 @@
-# Sabara System ✨
+# Sabara SubSystem ✨
 
 #Project Overview
 Sabara System is a small personal project I developed to practice and prepare for my graduation project.  
